@@ -8,9 +8,9 @@ using namespace std;
 void Suicide_Squard()
 {
 	int n, m;
-	node* head, * p, * tail, * q;
+	node* head, * p, * tail, * q;	//设置head，p，tail，q指针
 	head = new node;
-	head->next = NULL;
+	head->next = NULL;			//初始化链表
 	tail = head;
 
 	cout << "从1号开始数数：\n" << endl;
@@ -19,7 +19,7 @@ void Suicide_Squard()
 	cout << "请输入m,m代表每数到第m个就去执行任务" << endl;
 	cin >> m;
 
-	for (int i = 1; i <= n; i++)
+	for (int i = 1; i <= n; i++)		//链表后插法，初始一个表格，将尾指针指向表格
 	{
 		p = new node;
 		p->next = NULL;
@@ -28,14 +28,14 @@ void Suicide_Squard()
 		tail = p;
 	}
 
-	tail->next = head->next;
-	int ans = 1;
-	q = head;
+	tail->next = head->next;		//将链表形成一个圈
+	int ans = 1;			//初始化若n=1时，答案为1
+	q = head;		
 	p = head->next;
 
-	while (n != 1)
+	while (n != 1)				//在不剩下最后一个人（即n！=1）的时候运行
 	{
-		if (ans % m != 0)
+		if (ans % m != 0)		//把ans作为计数器，，若符合第m的时候（ans一直连加）派第m人前往
 		{
 			p = p->next;
 			q = q->next;

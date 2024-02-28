@@ -1,4 +1,7 @@
-#pragma once
+#ifndef _SUICIDE_TITLE_H_
+#define _SUICIDE_TITLE_H_
+
+
 struct node
 {
 	int data;
@@ -6,3 +9,5 @@ struct node
 };
 
 void Suicide_Squard();
+
+#endif

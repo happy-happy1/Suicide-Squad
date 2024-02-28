@@ -1,2 +1,4 @@
 # Suicide-Squad
-Suicide Squad
+1、Suicide_Squard_main为一开始的主函数
+2、Suicide_Squard_LNode为循环链表实现，且使用vs2022打开其中的sln文件
+2、Suicide_Squard_CNode为顺序表的实现，且使用vs2022打开其中的sln文件
