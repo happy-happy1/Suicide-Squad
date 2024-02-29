@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Sucide_Squard_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title_branch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Suicide_title_branch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Sucide_Squard_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Sucide_Squard_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Suicide_title2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title_branch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{416B23DB-BEF2-4C17-9697-FFDD75F5F187}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Suicide_title_branch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sucide_Squard_main.cpp",
-              "DocumentMoniker": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Sucide_Squard_main.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\Sucide_Squard_main.cpp",
-              "ToolTip": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Sucide_Squard_main.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\Sucide_Squard_main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-28T02:31:03.2Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Sucide_Squard_main.cpp",
+              "DocumentMoniker": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Sucide_Squard_main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Sucide_Squard_main.cpp",
+              "ToolTip": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Sucide_Squard_main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Sucide_Squard_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-28T02:31:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Suicide_title2.h",
-              "DocumentMoniker": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title2.h",
+              "DocumentMoniker": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title2.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Suicide_title2.h",
-              "ToolTip": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title2.h",
+              "ToolTip": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title2.h",
               "RelativeToolTip": "ConsoleApplication1\\Suicide_title2.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -51,19 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Suicide_title_branch2.cpp",
-              "DocumentMoniker": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title_branch2.cpp",
+              "DocumentMoniker": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title_branch2.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Suicide_title_branch2.cpp",
-              "ToolTip": "C:\\Users\\31028\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Suicide_title_branch2.cpp",
+              "ToolTip": "E:\\github\\Suicide-Squad\\Suicide_Squard_CNode\\ConsoleApplication1\\Suicide_title_branch2.cpp",
               "RelativeToolTip": "ConsoleApplication1\\Suicide_title_branch2.cpp",
-              "ViewState": "AQIAABkAAAAAAAAAAAAmwDIAAAAkAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-28T02:34:26.832Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-02-28T02:34:26.832Z",
+              "EditorCaption": ""
             }
           ]
         }
